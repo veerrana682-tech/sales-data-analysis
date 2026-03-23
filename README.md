@@ -14,3 +14,6 @@ This project analyzes sales data using Excel, MySQL, Pandas, and Power BI.
 - Region-wise performance
 - Top selling product
 - Category-wise profit
+## 📊 Dashboard
+
+![Dashboard](dashboard.png)
