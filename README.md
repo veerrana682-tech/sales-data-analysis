@@ -16,4 +16,4 @@ This project analyzes sales data using Excel, MySQL, Pandas, and Power BI.
 - Category-wise profit
 ## 📊 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](5A1393EC-95B8-4135-9859-4748AF649D64.png)
